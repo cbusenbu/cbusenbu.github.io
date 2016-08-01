@@ -1,20 +1,14 @@
 ---
 layout: page
-title: About Pixyll
-permalink: /about/
+title: About Chas
+permalink: /aboutChas/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Chas Busenburg is an aspiring Data Scientist at Ball State University in Muncie, Indiana. 
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+He is currently pursuing a Masters of Science in Computer Science. 
 
-Thanks to the following:
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+Resume:
+
