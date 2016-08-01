@@ -22,7 +22,7 @@ with his family.
 <h4>Currently looking for employment.</h4>
 Chas will be graduating from graduate school in May 2017. He is currently looking/pursuing 
 a Data Scientist position with a group of individuals who value : integrity, respect, 
-learning, and failure. 
+learning, and failure as a learning tool. 
 
 Chas' Resume is available upon request, just [Say Hello](/contact/).
 
