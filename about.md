@@ -12,8 +12,9 @@ He is currently pursuing a Masters of Science in Computer Science.
 He enjoys learning more Functional Programming in Scala 
 
 Current Topics of Learning:
+	
 	* Scala as a language.
-	* Spark
+	* Spark.
 	* Machine Learning with MLlib.
 	
 
