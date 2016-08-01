@@ -3,7 +3,7 @@ title:       C.W. Busenburg
 email:       chas@cwbusenburg.com
 author:      Chas Busenburg
 description: "The musings of an aspiring data scientist."
-baseurl:     "cwbusenburg.com"
+baseurl:     ""
 url:         "cbusenbu.github.io"
 date_format: "%b %-d, %Y"
 
