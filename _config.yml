@@ -4,14 +4,14 @@ email:       chas@cwbusenburg.com
 author:      Chas Busenburg
 description: "The musings of an aspiring data scientist."
 baseurl:     ""
-url:         "cbusenbu.github.io"
+url:         "/"
 date_format: "%b %-d, %Y"
 
 # Google services
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics: UA-81739306-1
+google_analytics:
 google_tag_manager: GTM-K6PR6X
 # Bing services
 bing_verification:
@@ -94,7 +94,7 @@ text:
       sending:  'sending..'
       sent:     'Message sent!'
       error:    'Error!'
-  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
+  thanks: 'Thanks for contacting me. I will reply as soon as possible.'
   og_locale: 'en_US'
 
 # Build settings
