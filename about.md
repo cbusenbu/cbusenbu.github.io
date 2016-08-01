@@ -9,7 +9,7 @@ Chas Busenburg is an aspiring Data Scientist at Ball State University in Muncie,
 
 He is currently pursuing a Masters of Science in Computer Science. 
 
-He enjoys reading kdnuggets.com, playing disc golf, and spending time
+He enjoys reading [KDnuggets](http://www.kdnuggets.com), playing disc golf, and spending time
 with his family.
 
 
@@ -20,8 +20,8 @@ with his family.
 	* Machine Learning with MLlib.
 	
 <h4>Currently looking for employment.</h4>
-Chas will be graduating from graduate school in May 2017. He is currently looking 
-pursuing a Data Scientist position with group of individuals who value : integrity, respect, 
+Chas will be graduating from graduate school in May 2017. He is currently looking/pursuing 
+a Data Scientist position with group of individuals who value : integrity, respect, 
 learning, and failure. 
 
 Chas' Resume is available upon request, just [Say Hello](/contact/).
