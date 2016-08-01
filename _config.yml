@@ -6,7 +6,7 @@ description: "The musings of an aspiring data scientist."
 baseurl:     ""
 url:         "/"
 date_format: "%b %-d, %Y"
-future: false
+
 
 # Google services
 google_verification:
