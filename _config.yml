@@ -1,8 +1,8 @@
 # Site settings
-title:       While wearing one sock
-email:       your_email@example.com
+title:       C.W. Busenburg
+email:       chas@cwbusenburg.com
 author:      Chas Busenburg
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "The musings of an aspiring data scientist."
 baseurl:     ""
 url:         "cbusenbu.github.io"
 date_format: "%b %-d, %Y"
@@ -11,8 +11,8 @@ date_format: "%b %-d, %Y"
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
-google_tag_manager:
+google_analytics: UA-81739306-1
+google_tag_manager: GTM-K6PR6X
 # Bing services
 bing_verification:
 
