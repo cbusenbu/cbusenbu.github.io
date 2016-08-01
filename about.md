@@ -9,6 +9,11 @@ Chas Busenburg is an aspiring Data Scientist at Ball State University in Muncie,
 
 He is currently pursuing a Masters of Science in Computer Science. 
 
+He enjoys learning more Functional Programming in Scala 
 
-Resume:
+Current Topics of Learning:
+	* Scala as a language.
+	* Spark
+	* Machine Learning with MLlib.
+	
 
