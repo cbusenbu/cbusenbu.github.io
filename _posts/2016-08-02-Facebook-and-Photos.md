@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Facebook and limitations of Learners
-date:       2016-08-01
+date:       2016-08-02
 summary:    In the age of Learning Algorithms, we can still see first hand limitations of Learners.
 categories: Machine_Learning 
 ---
