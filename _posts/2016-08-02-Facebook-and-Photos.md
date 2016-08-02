@@ -18,4 +18,4 @@ So let's talk a little bit about what happens with a classical learning algorith
 * A well manicured training dataset
 * A verification set.
 
-For the purpose of explanation, we are going to approach the algorithm with a "black box" mentality. Which means we don't care what happens with the algorithm, we just care what goes in and what comes out.
+For the purpose of explanation, we are going to approach the algorithm with a "black box" mentality. Which means we don't care what happens with the algorithm, we just care what goes in and what comes out. 
