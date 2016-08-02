@@ -12,8 +12,10 @@ This past weekend my wife, Anna, was posting quite a few pictures to Facebook af
 
 This then led my wife to ask "Why is Facebook doing this?". Isn't this an interesting question! The first step to figuring out a solution is understanding the problem. 
 
-So let's talk a little bit about what happens with a classical learning algorithm (learner) needs three things to operate:
+So let's talk a little bit about what happens with a classical learning algorithm (learner), and  the three basics a learner needs to operate:
 
 * The algorithm itself
 * A well manicured training dataset
-* 
+* A verification set.
+
+For the purpose of explanation, we are going to approach the algorithm with a "black box" mentality. Which means we don't care what happens with the algorithm, we just care what goes in and what comes out.
