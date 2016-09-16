@@ -6,7 +6,7 @@ summary: Creating a permutation generator in Javascript based on Heap's Algorith
 categories: Javascript permutation generator
 ---
 
-'''javascript
+```javascript
 function* permute(letters){
     function* swapGenerator(word){
         let arrayOfLetters = word.split("");
@@ -44,5 +44,5 @@ function* permute(letters){
                                         
 }
 
-'''
+```
 
