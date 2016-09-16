@@ -12,7 +12,7 @@ to create that many permutations, we can easily run into issues of memory being 
 Well thankfully permutations can be procedurally generated, meaning that we can create a new
 permutation that has not been created yet based on a much smaller amount of memory.
 
-I used [Heap's Algorithm](https://en.wikipedia.org/wiki/Heap%27s_algorithm/)  to accomplish this,
+I used [Heap's Algorithm](https://en.wikipedia.org/wiki/Heap%27s_algorithm)  to accomplish this,
 Pretty simple to implement in Javascript, the thing to notice is that I have actually created a generator
 within the permute function itself. This is purely from my decision to abstract out that piece.
 My thought process was that I wanted the actual function of permute to be clean and simple. As we 
