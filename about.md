@@ -7,10 +7,10 @@ tags: about
 
 Chas Busenburg is a Data Scientist with [Milliman PRM Analytics](www.prmanalytics.com).
 
-He enjoys reading [KDnuggets](http://www.kdnuggets.com), playing disc golf, and spending time
+He enjoys learning more about his craft, playing disc golf, and spending time
 with his family.
 
-<h4>Current Topics of Learning: (Updated: August 1, 2016)</h4>
+<h4>Current Topics of Learning: (Updated: August 12, 2019)</h4>
 
 	* Large Scale Data Scaling in AWS
 	* Trying to keep up with recent ML trends
